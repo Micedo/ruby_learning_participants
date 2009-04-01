@@ -60,3 +60,4 @@ Change log:
 
 Cheers,
 ashbb (Satoshi Asakawa)
+Micedo (Michael Andersson)
